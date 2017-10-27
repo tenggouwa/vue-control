@@ -1,6 +1,6 @@
 # vuec
 
-> A Vue.js project
+> A simple Vue.js project for Background management system
 
 ## Build Setup
 
